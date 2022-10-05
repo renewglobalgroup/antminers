@@ -1,3 +1,3 @@
-# Innosilicon Miners
+# Antminers
 
-This project will contain information about Innosilicon miners that are currently on the market.
+This project will contain information about commonly used mining machines on the market.
