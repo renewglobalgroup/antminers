@@ -1,0 +1,1 @@
+uenvcmd=dcache off && if test "${ramdisk_image}" = "update.image.gz"; then fatload mmc 0 0x1000000 update_19.image.gz; else fatload mmc 0 0x1000000 update_17.image.gz; fi && go 0x1000000
